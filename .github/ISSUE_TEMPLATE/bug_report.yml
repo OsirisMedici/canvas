@@ -1,0 +1,60 @@
+name: Bug report
+description: Report a problem with Canvas or its community documentation.
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This report will be public. Do not attach private libraries, personal boards, credentials, private sharing links, or unredacted logs. Use made-up data and redact screenshots. Report vulnerabilities privately via https://github.com/OsirisMedici/canvas-community/security/advisories/new.
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Before submitting
+      options:
+        - label: I have checked this report and any attachments for private data and credentials.
+          required: true
+        - label: I have searched existing issues for the same problem.
+          required: true
+  - type: input
+    id: version
+    attributes:
+      label: Canvas edition and version
+      placeholder: "Edition and version, or community documentation only"
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: macOS version and Mac chip
+      description: "For app bugs, include macOS version and Apple Silicon/Intel chip. For documentation, enter your browser or N/A. Do not include serial numbers."
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Use a small invented example and explain how often this occurs.
+      placeholder: "1. Open…
+2. Choose…
+3. Observe…"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+      description: Include a short redacted error message if useful. Do not upload full logs.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context (optional)
+      description: Mention a workaround or attach only a verified clean, redacted screenshot.

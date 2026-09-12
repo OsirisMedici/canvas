@@ -1,0 +1,44 @@
+name: Feature request
+description: Explain an outcome you want Canvas to make easier.
+title: "[Feature]: "
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Feedback is welcome before downloads are available. Check the roadmap and existing issues first. This request will be public: do not include private libraries, personal boards, credentials, private sharing links, or unredacted logs. A request is not a delivery promise.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I have checked the roadmap and existing issues.
+          required: true
+        - label: This request and its attachments contain no private data or credentials.
+          required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Who needs this, and what are they trying to do?
+      description: Describe the problem using a made-up example.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What should become easier?
+      description: Explain what a successful result would look like.
+    validations:
+      required: true
+  - type: textarea
+    id: workaround
+    attributes:
+      label: Current workaround and alternatives
+      description: Tell us how you handle this today, or enter none.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Suggested approach (optional)
+      description: Mention any important tradeoffs or constraints.
