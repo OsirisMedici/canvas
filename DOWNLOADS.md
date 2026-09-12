@@ -4,7 +4,7 @@
 
 Status updated: September 12, 2026.
 
-No public installer is available. GitHub's **Code → Download ZIP** downloads these community documents, not the Canvas application.
+No public installer is available. GitHub's **Code → Download ZIP** downloads these community documents, not the Canvas V5 application.
 
 ## Apple Silicon pilot
 
@@ -17,6 +17,6 @@ Canvas Core is the current name of the separate private Apple Silicon Mac pilot.
 - Complete dependency distribution/license review and prepare application terms and third-party notices.
 - Complete appropriate release preparation, including Developer ID signing, Apple notarization, installer verification, instructions, and checksums.
 
-Only then will an approved installer appear in [Releases](https://github.com/OsirisMedici/canvas-lab/releases). There is no public release date yet.
+Only then will an approved installer appear in [Releases](https://github.com/OsirisMedici/canvas-community/releases). There is no public release date yet.
 
 Update hosting and delivery are future setup. No working automatic update service is promised. Each approved release will state how to install or update it and which Macs it supports.

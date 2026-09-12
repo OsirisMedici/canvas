@@ -1,9 +1,9 @@
 # Community guidelines
 
-Help make Canvas feedback useful and welcoming.
+Help make Canvas V5 feedback useful and welcoming.
 
 - Treat people respectfully, including when you disagree. Critique the idea or behavior, not the person.
-- Keep reports constructive and focused on Canvas. Avoid harassment, discrimination, threats, spam, and personal attacks.
+- Keep reports constructive and focused on Canvas V5. Avoid harassment, discrimination, threats, spam, and personal attacks.
 - Respect privacy. Do not post anyone's personal information, private work, credentials, or private conversations.
 - Use original or appropriately permitted examples and attachments.
 

@@ -1,6 +1,6 @@
-# Contributing to Canvas Lab
+# Contributing to Canvas V5 community
 
-Thanks for helping shape Canvas. This repository accepts product feedback and documentation improvements. Application development and source code remain private.
+Thanks for helping shape Canvas V5. This repository accepts product feedback and documentation improvements. Application development and source code remain private.
 
 ## Bugs and feature requests
 
