@@ -1,22 +1,20 @@
-# Download status
+# Download Canvas
 
-**Preview · Download coming soon**
+**[Download and illustrated installation guide](https://osirismedici.github.io/canvas-v5-public/)** · [Release files](https://github.com/OsirisMedici/canvas-v5-public/releases/tag/v0.1.1-preview.1)
 
-Status updated: September 12, 2026.
+Version 0.1.1 public preview · Apple Silicon M1 and newer · macOS 12 or later.
 
-No public installer is available. GitHub's **Code → Download ZIP** downloads these community documents, not the Canvas V5 application.
+Choose **Canvas-0.1.1-Apple-Silicon-PUBLIC-PREVIEW.zip** from release Assets. It contains the DMG installer, START HERE.html, Canvas license, third-party notices, dependency source companion, release metadata and SHA256SUMS. DOWNLOAD-SHA256SUMS verifies the ZIP itself. GitHub's automatically generated “Source code” archives contain this public documentation, not the app.
 
-## Apple Silicon pilot
+1. Double-click the ZIP to extract it and open START HERE.html.
+2. Open the DMG and drag Canvas to Applications.
+3. Open Canvas from Applications. If macOS cannot verify it and you trust this official download, follow the guide to use Privacy & Security → Open Anyway. [Apple explains this approval](https://support.apple.com/en-gb/102445). The preview is not notarized or Developer ID signed; do not disable system-wide protections.
+4. Create a board, note and file; quit with Command-Q and reopen to check they persist.
 
-Canvas Core is the current name of the separate private Apple Silicon Mac pilot. It is being prepared and validated; it is not a public release. A recipient installation and save/quit/reopen test on a separate Mac is still required. Minimum supported macOS versions and broader compatibility are not yet announced.
+Keep the source companion and notices with the official package when sharing. They do not need installation or compilation. Canvas has a separate library from Canvas Vault. For a previous Canvas Core installation: quit Canvas Core and back up its library, install Canvas, then verify the existing board and files. The support directory and library remain unchanged. After verification, remove only the old Canvas Core.app bundle from Applications to avoid stale duplicates; keep its library folders. Updates are manual, through this public release page.
 
-## Before public downloads
+## Preview limits
 
-- Verify installation on a recipient Mac without developer tools and confirm that saved boards, notes, and media persist after quitting and reopening.
-- Confirm that each recipient starts with a fresh library and that the installer contains no owner's data or credentials.
-- Complete dependency distribution/license review and prepare application terms and third-party notices.
-- Complete appropriate release preparation, including Developer ID signing, Apple notarization, installer verification, instructions, and checksums.
+There is no stable support guarantee, automatic updater, Intel build, Windows build or Linux build. Online capture and feeds depend on external services and may change. Drawing and Studio editing are excluded. A prior pilot's manual approval was reported successful on an M5 Mac; the complete recipient save/restart checklist remains pending. Local verification does not establish compatibility with every Mac configuration.
 
-Only then will an approved installer appear in [Releases](https://github.com/OsirisMedici/canvas-v5-public/releases). There is no public release date yet.
-
-Update hosting and delivery are future setup. No working automatic update service is promised. Each approved release will state how to install or update it and which Macs it supports.
+See [Canvas terms](docs/LICENSE-Canvas.txt), the bundled THIRD_PARTY_NOTICES.md and [security reporting](SECURITY.md).

@@ -10,6 +10,6 @@ If private reporting is unavailable, do not post vulnerability details publicly.
 
 ## Support status
 
-Canvas V5 is in preview, with no public installer or stable supported release here yet. There is no guaranteed response time, security support window, or bug bounty. A future approved release will state its support and update information.
+Canvas 0.1.1 is a public preview, not a stable supported release. It is ad-hoc signed and not Apple-notarized; macOS approval and updates are manual. There is no guaranteed response time, security support window, or bug bounty. Check the official Releases page for newer builds.
 
 Ordinary non-sensitive bugs and documentation errors belong in the public bug form.

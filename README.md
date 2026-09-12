@@ -1,43 +1,37 @@
 # Canvas V5 Public
 
-The public home for Canvas V5 community feedback and future approved downloads.
+The public home for Canvas downloads and community feedback. The Mac app is **Canvas**, a local workspace for creators, researchers, students and independent builders.
 
-Canvas V5 is a local-first Mac workspace for collecting references, learning deliberately, and turning notes into useful work. Canvas V5 is for creators, researchers, students, and independent builders who want their sources and ideas organized in one place.
+**[Download Canvas for Mac and read the illustrated guide](https://osirismedici.github.io/canvas-v5-public/)**
 
-**Preview · Download coming soon**
+Canvas 0.1.1 is a free public preview for Apple Silicon Macs (M1 and newer), macOS 12 or later. It is ad-hoc signed, not Developer ID signed or Apple-notarized. Installation may require manual approval in macOS. There are no automatic updates, subscriptions for core local features, or developer-tool setup steps.
 
-Status updated: September 12, 2026. There is no public installer or stable release available here yet.
+[Report a bug](https://github.com/OsirisMedici/canvas-v5-public/issues/new?template=bug_report.yml) · [Request a feature](https://github.com/OsirisMedici/canvas-v5-public/issues/new?template=feature_request.yml) · [Roadmap](ROADMAP.md) · [Download details](DOWNLOADS.md)
 
-[Report a bug](https://github.com/OsirisMedici/canvas-v5-public/issues/new?template=bug_report.yml) · [Request a feature](https://github.com/OsirisMedici/canvas-v5-public/issues/new?template=feature_request.yml) · [Roadmap](ROADMAP.md) · [Download status](DOWNLOADS.md)
+## What you can do
 
-## What Canvas V5 is for
-
-- **Swipe boards:** collect references, notes, images, videos, PDFs, and web sources worth returning to.
-- **Learning boards:** organize selected creators and saved research around a subject you want to understand.
-- **Watch Later:** keep a deliberate queue of sources to study.
-- **Brain boards:** organize ideas, notes, and tasks in flexible columns.
+- **Swipe boards:** collect notes, images, videos, PDFs and web references.
+- **Learning boards:** organize supported creators and saved research around a subject.
+- **Watch Later:** keep sources you want to revisit.
+- **Brain boards:** organize ideas, notes and tasks in columns.
 - **Goal boards:** break an outcome into steps and attach supporting work.
 
-For example, gather references for a writing project, save the sources that matter, organize your notes, and work toward a clear goal. Canvas V5 stores its library locally on your Mac; features that retrieve online sources need a network connection.
+Saved local material lives on your Mac. Fetching online sources and feeds needs internet access. Canvas uses its own library, separate from Canvas Vault. Drawing and Studio editing are excluded. Portable board export/import is planned and unavailable. Intel, Windows and Linux installers are unavailable.
 
-## Current preview
+## Install and try it
 
-The first installation effort is a **private Apple Silicon Mac pilot**, currently called **Canvas Core**. Its focus is the research, notes, media, and board workflows above. Drawing and Studio editing are outside this pilot edition.
+Download the recommended ZIP from the [preview release](https://github.com/OsirisMedici/canvas-v5-public/releases/tag/v0.1.1-preview.1), extract it, open the DMG, and drag Canvas to Applications. Read START HERE.html for illustrated macOS approval steps. Create a Swipe Board, add a note and a file, quit with Command-Q, then reopen and confirm they remain.
 
-The pilot is under preparation and validation. Installation and persistence on a separate recipient Mac remain to be verified. Public availability, supported macOS versions, and final edition details will be announced only after the release checks are complete. Intel Mac, Windows, and Linux installers are not available.
+The ZIP includes the offline guide, Canvas terms, dependency notices, corresponding third-party source companion and checksums. Keep these together when sharing it. No compilation or Terminal commands are needed. This is an early preview, with manual updates and no guaranteed support window. When upgrading from Canvas Core, quit it and back up its library before installing Canvas. Both names use the same existing Core library. Verify your content, then remove only the old Canvas Core.app bundle to avoid stale duplicates. Keep all library folders.
 
-No public build is being presented as stable, Developer ID signed, Apple notarized, or cleared for commercial distribution. Application licensing and third-party distribution notices remain under review. **Portable board export/import is planned, not available.** Update infrastructure is future setup; automatic updates are not promised.
-
-See [Download status](DOWNLOADS.md) for the remaining release gates. Future approved installers will be published through this repository's [Releases](https://github.com/OsirisMedici/canvas-v5-public/releases), with installation instructions and checksums.
+Local packaged startup, save/restart and legacy archive checks are part of release verification. A previous pilot's manual approval worked on a recipient M5; a complete save/restart checklist on another Mac remains unconfirmed. This release is not represented as stable or Apple-approved.
 
 ## Join the community
 
-You can read the product information without an account. A GitHub account is needed to submit a bug or feature request. Search [existing issues](https://github.com/OsirisMedici/canvas-v5-public/issues) first, then describe your problem or desired outcome using the forms above. Feedback is welcome before downloads are available.
+Reading and downloading need no GitHub account. Submitting feedback does. Search [existing issues](https://github.com/OsirisMedici/canvas-v5-public/issues) before creating one. Explain the problem or outcome using a made-up example.
 
-**Issues and attachments are public. Do not upload private libraries, personal boards, credentials, private sharing links, or unredacted logs.** Use a small made-up example and redact screenshots. Report suspected security vulnerabilities through [private security reporting](SECURITY.md).
+**Issues and attachments are public. Do not upload private libraries, personal boards, credentials, private sharing links, or unredacted logs.** Use [private security reporting](SECURITY.md) for suspected vulnerabilities. Documentation corrections are welcome through pull requests; see [Contributing](CONTRIBUTING.md) and [community guidelines](CODE_OF_CONDUCT.md).
 
-Documentation corrections are welcome through pull requests. See [Contributing](CONTRIBUTING.md) and our [community guidelines](CODE_OF_CONDUCT.md).
+## Terms and source
 
-## About this repository
-
-This is the public home for Canvas V5 product information, community feedback, and future approved downloads. The application source remains private. This repository does not open-source the app or grant a software license to it. Application terms and third-party notices will be published with an approved release after review; no licensing clearance is implied by this repository.
+Canvas's own covered materials use the [Canvas Free Use License](docs/LICENSE-Canvas.txt), permitting free personal and business use and sharing unchanged official packages with their accompanying materials. Third-party licenses and prior MIT grants retain their existing rights. The public repository does not contain Canvas's application source; dependency sources are provided with the release under their own licenses.

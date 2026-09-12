@@ -1,0 +1,42 @@
+Canvas — Free Use License
+Copyright (c) 2026 Osiris Medici. All rights reserved.
+
+Applies to Canvas releases first distributed with these terms.
+
+1. Permission to use
+You may install and use the official Canvas application free of charge for
+personal or business purposes. You may make backup copies and share unchanged
+official distribution packages without charging for the software, provided you
+retain these terms, third-party notices and accompanying source materials.
+You own your content. These terms do not give the publisher ownership of it.
+
+2. Canvas code
+Except as allowed above, by applicable law, or by a separate license, this license
+does not grant permission to modify, republish, sublicense or sell Canvas's
+proprietary code or derivative products. Ownership remains with its respective
+copyright holders. Availability of a public download is not an open-source grant.
+
+3. Third-party software and existing rights
+These terms apply only to code and materials the publisher has the right to
+license under them. Third-party components remain under their own licenses,
+which control their use, modification, redistribution and source availability.
+Nothing here limits rights under those licenses, including rights to replace or
+modify covered components or reverse engineer as their licenses permit. See the
+included THIRD_PARTY_NOTICES.md and corresponding source companion.
+These terms do not revoke rights in earlier copies licensed under MIT or another
+license. Components with existing notices retain the rights in those notices.
+
+4. Updates
+This release is free to use. No subscription is required for its core local
+features. Updates, support, online services and future releases are not promised.
+Future releases may be offered under different terms, without changing these
+terms for a copy you already received.
+
+5. Warranty and liability
+To the extent allowed by applicable law, the software is provided AS IS, without
+warranties of any kind, express or implied, including merchantability, fitness
+for a particular purpose and noninfringement. To that extent, the publisher and
+copyright holders are not liable for claims, damages or other liability arising
+from the software or its use. Mandatory statutory rights are unaffected.
+
+Product information: https://github.com/OsirisMedici/canvas-v5-public
