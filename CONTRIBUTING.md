@@ -1,4 +1,4 @@
-# Contributing to Canvas community
+# Contributing to Canvas Lab
 
 Thanks for helping shape Canvas. This repository accepts product feedback and documentation improvements. Application development and source code remain private.
 

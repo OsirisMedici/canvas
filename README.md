@@ -1,12 +1,14 @@
-# Canvas
+# Canvas Lab
 
-A local-first Mac workspace for collecting references, learning deliberately, and turning notes into useful work. Canvas is for creators, researchers, students, and independent builders who want their sources and ideas organized in one place.
+The public home for Canvas community feedback and future approved downloads.
+
+Canvas is a local-first Mac workspace for collecting references, learning deliberately, and turning notes into useful work. Canvas is for creators, researchers, students, and independent builders who want their sources and ideas organized in one place.
 
 **Preview · Download coming soon**
 
 Status updated: September 12, 2026. There is no public installer or stable release available here yet.
 
-[Report a bug](https://github.com/OsirisMedici/canvas-community/issues/new?template=bug_report.yml) · [Request a feature](https://github.com/OsirisMedici/canvas-community/issues/new?template=feature_request.yml) · [Roadmap](ROADMAP.md) · [Download status](DOWNLOADS.md)
+[Report a bug](https://github.com/OsirisMedici/canvas-lab/issues/new?template=bug_report.yml) · [Request a feature](https://github.com/OsirisMedici/canvas-lab/issues/new?template=feature_request.yml) · [Roadmap](ROADMAP.md) · [Download status](DOWNLOADS.md)
 
 ## What Canvas is for
 
@@ -26,11 +28,11 @@ The pilot is under preparation and validation. Installation and persistence on a
 
 No public build is being presented as stable, Developer ID signed, Apple notarized, or cleared for commercial distribution. Application licensing and third-party distribution notices remain under review. **Portable board export/import is planned, not available.** Update infrastructure is future setup; automatic updates are not promised.
 
-See [Download status](DOWNLOADS.md) for the remaining release gates. Future approved installers will be published through this repository's [Releases](https://github.com/OsirisMedici/canvas-community/releases), with installation instructions and checksums.
+See [Download status](DOWNLOADS.md) for the remaining release gates. Future approved installers will be published through this repository's [Releases](https://github.com/OsirisMedici/canvas-lab/releases), with installation instructions and checksums.
 
 ## Join the community
 
-You can read the product information without an account. A GitHub account is needed to submit a bug or feature request. Search [existing issues](https://github.com/OsirisMedici/canvas-community/issues) first, then describe your problem or desired outcome using the forms above. Feedback is welcome before downloads are available.
+You can read the product information without an account. A GitHub account is needed to submit a bug or feature request. Search [existing issues](https://github.com/OsirisMedici/canvas-lab/issues) first, then describe your problem or desired outcome using the forms above. Feedback is welcome before downloads are available.
 
 **Issues and attachments are public. Do not upload private libraries, personal boards, credentials, private sharing links, or unredacted logs.** Use a small made-up example and redact screenshots. Report suspected security vulnerabilities through [private security reporting](SECURITY.md).
 

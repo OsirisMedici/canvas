@@ -2,7 +2,7 @@
 
 ## Report privately
 
-Please do not disclose suspected vulnerabilities in public issues or pull requests. Use [Report a vulnerability](https://github.com/OsirisMedici/canvas-community/security/advisories/new), GitHub's private vulnerability reporting channel for this repository. A GitHub account is required.
+Please do not disclose suspected vulnerabilities in public issues or pull requests. Use [Report a vulnerability](https://github.com/OsirisMedici/canvas-lab/security/advisories/new), GitHub's private vulnerability reporting channel for this repository. A GitHub account is required.
 
 Describe the affected Canvas edition/version, the impact, and minimal steps using invented data. Do not include credentials, private libraries, personal boards, private sharing links, or unredacted logs, even in a private report. Coordinate any additional evidence with the maintainer before sharing it.
 
