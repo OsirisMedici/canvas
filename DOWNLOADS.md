@@ -2,7 +2,7 @@
 
 **[Download and illustrated installation guide](https://osirismedici.github.io/canvas-v5-public/)** · [Release files](https://github.com/OsirisMedici/canvas-v5-public/releases/tag/v0.1.1-preview.1)
 
-Version 0.1.1 public preview · Apple Silicon M1 and newer · macOS 12 or later.
+Version 0.1.1 public preview · Apple Silicon M1 and newer · macOS 26 or later.
 
 Choose **Canvas-0.1.1-Apple-Silicon-PUBLIC-PREVIEW.zip** from release Assets. It contains the DMG installer, START HERE.html, Canvas license, third-party notices, dependency source companion, release metadata and SHA256SUMS. DOWNLOAD-SHA256SUMS verifies the ZIP itself. GitHub's automatically generated “Source code” archives contain this public documentation, not the app.
 

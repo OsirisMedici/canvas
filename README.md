@@ -4,7 +4,7 @@ The public home for Canvas downloads and community feedback. The Mac app is **Ca
 
 **[Download Canvas for Mac and read the illustrated guide](https://osirismedici.github.io/canvas-v5-public/)**
 
-Canvas 0.1.1 is a free public preview for Apple Silicon Macs (M1 and newer), macOS 12 or later. It is ad-hoc signed, not Developer ID signed or Apple-notarized. Installation may require manual approval in macOS. There are no automatic updates, subscriptions for core local features, or developer-tool setup steps.
+Canvas 0.1.1 is a free public preview for Apple Silicon Macs (M1 and newer), macOS 26 or later. It is ad-hoc signed, not Developer ID signed or Apple-notarized. Installation may require manual approval in macOS. There are no automatic updates, subscriptions for core local features, or developer-tool setup steps.
 
 [Report a bug](https://github.com/OsirisMedici/canvas-v5-public/issues/new?template=bug_report.yml) · [Request a feature](https://github.com/OsirisMedici/canvas-v5-public/issues/new?template=feature_request.yml) · [Roadmap](ROADMAP.md) · [Download details](DOWNLOADS.md)
 
