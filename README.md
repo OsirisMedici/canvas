@@ -26,6 +26,19 @@ The ZIP includes the offline guide, Canvas terms, dependency notices, correspond
 
 Local packaged startup, save/restart and legacy archive checks are part of release verification. A previous pilot's manual approval worked on a recipient M5; a complete save/restart checklist on another Mac remains unconfirmed. This release is not represented as stable or Apple-approved.
 
+## Open-source projects we admire
+
+Canvas is its own product, shaped by ideas we respect across the open-source community:
+
+- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy):** for its commitment to open development and user-controlled data.
+- **[Logseq](https://github.com/logseq/logseq):** for its local-first approach to turning everyday capture into connected knowledge.
+- **[Joplin](https://github.com/laurent22/joplin):** for treating data portability, reliable export and flexible sync as core product promises.
+- **[Memos](https://github.com/usememos/memos):** for making private, self-hosted capture simple and immediate.
+- **[AFFiNE](https://github.com/toeverything/AFFiNE):** for bringing writing, visual thinking and planning together in one open workspace.
+- **[Excalidraw](https://github.com/excalidraw/excalidraw):** for making visual thinking immediate and keeping drawings in an open, portable format.
+
+Admiration does not mean that every project is bundled into Canvas. Software included in a release is identified separately in its dependency notices.
+
 ## Join the community
 
 Reading and downloading need no GitHub account. Submitting feedback does. Search [existing issues](https://github.com/OsirisMedici/canvas/issues) before creating one. Explain the problem or outcome using a made-up example.
