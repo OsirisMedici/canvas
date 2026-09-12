@@ -1,6 +1,6 @@
 # Download Canvas
 
-**[Download and illustrated installation guide](https://osirismedici.github.io/canvas-v5-public/)** · [Release files](https://github.com/OsirisMedici/canvas-v5-public/releases/tag/v0.1.1-preview.1)
+**[Download and illustrated installation guide](https://osirismedici.github.io/canvas/)** · [Release files](https://github.com/OsirisMedici/canvas/releases/tag/v0.1.1-preview.1)
 
 Version 0.1.1 public preview · Apple Silicon M1 and newer · macOS 26 or later.
 

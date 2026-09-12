@@ -39,4 +39,4 @@ for a particular purpose and noninfringement. To that extent, the publisher and
 copyright holders are not liable for claims, damages or other liability arising
 from the software or its use. Mandatory statutory rights are unaffected.
 
-Product information: https://github.com/OsirisMedici/canvas-v5-public
+Product information: https://github.com/OsirisMedici/canvas
