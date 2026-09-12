@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Download status and Apple Silicon pilot
-    url: https://github.com/OsirisMedici/canvas-community/blob/main/DOWNLOADS.md
+    url: https://github.com/OsirisMedici/canvas-v5-public/blob/main/DOWNLOADS.md
     about: Public downloads are not available yet. Check the current status and release gates.
   - name: Private security reporting
-    url: https://github.com/OsirisMedici/canvas-community/security/advisories/new
+    url: https://github.com/OsirisMedici/canvas-v5-public/security/advisories/new
     about: Report suspected vulnerabilities privately. Never post credentials or private libraries.
