@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/818b8a00-83fc-4495-894d-dbb7df90256c
-
 <div align="center">
   <img width="112" alt="Canvas app icon" src="docs/assets/canvas-mark.svg" />
 
@@ -27,12 +23,11 @@ https://github.com/user-attachments/assets/818b8a00-83fc-4495-894d-dbb7df90256c
     <a href="https://github.com/OsirisMedici/canvas/issues">Community</a>
   </p>
 
-  <a href="https://osirismedici.github.io/canvas/#demo">
-    <img width="1280" alt="Canvas product demo showing a local visual workspace" src="docs/assets/demo/canvas-product-demo-poster.jpg" />
-  </a>
-
-  <sub>1 min 50 sec silent product demo</sub>
 </div>
+
+https://github.com/user-attachments/assets/818b8a00-83fc-4495-894d-dbb7df90256c
+
+<p align="center"><sub>1 min 50 sec silent product demo</sub></p>
 
 ---
 
