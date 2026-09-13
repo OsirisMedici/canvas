@@ -8,6 +8,12 @@ Canvas 0.1.1 is a free public preview for Apple Silicon Macs (M1 and newer), mac
 
 [Report a bug](https://github.com/OsirisMedici/canvas/issues/new?template=bug_report.yml) · [Request a feature](https://github.com/OsirisMedici/canvas/issues/new?template=feature_request.yml) · [Roadmap](ROADMAP.md) · [Download details](DOWNLOADS.md)
 
+## See Canvas in action
+
+[![Watch the 1 minute 50 second silent Canvas product demo](docs/assets/demo/canvas-product-demo-poster.jpg)](https://osirismedici.github.io/canvas/#demo)
+
+[Watch the silent product demo](https://osirismedici.github.io/canvas/#demo) · 1 min 50 sec · no audio
+
 ## What you can do
 
 - **Swipe boards:** collect notes, images, videos, PDFs and web references.
