@@ -25,9 +25,11 @@
 
 </div>
 
-https://github.com/user-attachments/assets/818b8a00-83fc-4495-894d-dbb7df90256c
+<a href="https://osirismedici.github.io/canvas/#demo">
+  <img width="1280" alt="Canvas product demo playing automatically" src="https://github.com/user-attachments/assets/89ec4659-32c1-4530-9690-a5d034f2ff45" />
+</a>
 
-<p align="center"><sub>1 min 50 sec silent product demo</sub></p>
+<p align="center"><sub>1 min 50 sec silent product demo · plays automatically and loops</sub></p>
 
 ---
 
@@ -56,6 +58,40 @@ Export and restore a complete Canvas library—including media and workspaces—
 ## One focused Mac workspace
 
 Canvas is designed around a direct desktop workflow: open the app, work from your own library, quit, and return to the same material. No GitHub, Codex or Terminal setup is required to use it.
+
+---
+
+# Screenshots
+
+## Whiteboard
+
+<p align="center">
+  <img width="1280" alt="Canvas Whiteboard with editable shapes" src="https://github.com/user-attachments/assets/ae5c2ad6-575d-447e-b3a4-b58517e9ec70" />
+</p>
+
+## Swipe File
+
+<p align="center">
+  <img width="1280" alt="Canvas Swipe File combining source videos and a working note" src="https://github.com/user-attachments/assets/9dc180b4-dbd4-4c9c-89b6-82e57b3f3eb9" />
+</p>
+
+## Discover and learn
+
+<p align="center">
+  <img width="1280" alt="Canvas Discover board for architecture sources" src="https://github.com/user-attachments/assets/64187316-483f-4752-99ab-fc7c5ef7a941" />
+</p>
+
+## Saved sources
+
+<p align="center">
+  <img width="1280" alt="Saved sources inside a Canvas Discover board" src="https://github.com/user-attachments/assets/9ae9ef12-b50e-44a5-b52c-e96ad8f09307" />
+</p>
+
+## Mixed-media library
+
+<p align="center">
+  <img width="1280" alt="Canvas mixed-media Swipe File with video, image and web references" src="https://github.com/user-attachments/assets/c221e55a-7634-4ff6-ad23-726bbd85180c" />
+</p>
 
 ---
 
