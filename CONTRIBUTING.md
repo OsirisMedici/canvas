@@ -1,4 +1,4 @@
-# Contributing to Canvas V5 Public
+# Contributing to Canvas
 
 Thanks for helping shape Canvas V5. This repository accepts product feedback and documentation improvements. Application development and source code remain private.
 
