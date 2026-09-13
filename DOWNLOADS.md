@@ -1,6 +1,6 @@
 # Download Canvas
 
-**[Download and illustrated installation guide](https://osirismedici.github.io/canvas/)** · [Release files](https://github.com/OsirisMedici/canvas/releases/tag/v0.1.1-preview.1)
+**[Download and illustrated installation guide](https://osirismedici.github.io/canvas/)** · [Release files](https://github.com/OsirisMedici/canvas/releases/tag/v0.1.1-preview.2)
 
 Version 0.1.1 public preview · Apple Silicon M1 and newer · macOS 26 or later.
 
@@ -15,6 +15,6 @@ Keep the source companion and notices with the official package when sharing. Th
 
 ## Preview limits
 
-There is no stable support guarantee, automatic updater, Intel build, Windows build or Linux build. Online capture and feeds depend on external services and may change. Drawing and Studio editing are excluded. A prior pilot's manual approval was reported successful on an M5 Mac; the complete recipient save/restart checklist remains pending. Local verification does not establish compatibility with every Mac configuration.
+There is no stable support guarantee, automatic updater, Intel build, Windows build or Linux build. Online capture and feeds depend on external services and may change. Whiteboards are included; Studio editing and portable single-board sharing are not. The owner completed the disposable-library save/reopen test for this build; installation on a separate recipient Mac remains unconfirmed. Local verification does not establish compatibility with every Mac configuration.
 
 See [Canvas terms](docs/LICENSE-Canvas.txt), the bundled THIRD_PARTY_NOTICES.md and [security reporting](SECURITY.md).

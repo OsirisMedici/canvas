@@ -11,20 +11,21 @@ Canvas 0.1.1 is a free public preview for Apple Silicon Macs (M1 and newer), mac
 ## What you can do
 
 - **Swipe boards:** collect notes, images, videos, PDFs and web references.
-- **Learning boards:** organize supported creators and saved research around a subject.
+- **Discover:** follow supported creators and save useful material into your library.
 - **Watch Later:** keep sources you want to revisit.
-- **Brain boards:** organize ideas, notes and tasks in columns.
-- **Goal boards:** break an outcome into steps and attach supporting work.
+- **Kanban boards:** organize ideas, notes and tasks in columns.
+- **Whiteboards:** sketch and arrange visual ideas with the built-in Excalidraw workspace.
+- **Library recovery:** export and restore a complete Canvas library with its media and workspaces.
 
-Saved local material lives on your Mac. Fetching online sources and feeds needs internet access. Canvas uses its own library, separate from Canvas Vault. Drawing and Studio editing are excluded. Portable board export/import is planned and unavailable. Intel, Windows and Linux installers are unavailable.
+Saved local material lives on your Mac. Fetching online sources and feeds needs internet access. Canvas uses its own library, separate from Canvas Vault. Studio editing and portable single-board sharing are not included. Intel, Windows and Linux installers are unavailable.
 
 ## Install and try it
 
-Download the recommended ZIP from the [preview release](https://github.com/OsirisMedici/canvas/releases/tag/v0.1.1-preview.1), extract it, open the DMG, and drag Canvas to Applications. Read START HERE.html for illustrated macOS approval steps. Create a Swipe Board, add a note and a file, quit with Command-Q, then reopen and confirm they remain.
+Download the recommended ZIP from the [preview release](https://github.com/OsirisMedici/canvas/releases/tag/v0.1.1-preview.2), extract it, open the DMG, and drag Canvas to Applications. Read START HERE.html for illustrated macOS approval steps. Create a Swipe Board, add a note and a file, quit with Command-Q, then reopen and confirm they remain.
 
 The ZIP includes the offline guide, Canvas terms, dependency notices, corresponding third-party source companion and checksums. Keep these together when sharing it. No compilation or Terminal commands are needed. This is an early preview, with manual updates and no guaranteed support window. When upgrading from Canvas Core, quit it and back up its library before installing Canvas. Both names use the same existing Core library. Verify your content, then remove only the old Canvas Core.app bundle to avoid stale duplicates. Keep all library folders.
 
-Local packaged startup, save/restart and legacy archive checks are part of release verification. A previous pilot's manual approval worked on a recipient M5; a complete save/restart checklist on another Mac remains unconfirmed. This release is not represented as stable or Apple-approved.
+Local packaged startup, save/restart, Whiteboard persistence and complete-library archive/restore checks are part of release verification. The owner completed the disposable-library save/reopen test for this build; installation on a separate recipient Mac remains unconfirmed. This release is not represented as stable or Apple-approved.
 
 ## Open-source projects we admire
 
