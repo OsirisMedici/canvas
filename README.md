@@ -25,11 +25,9 @@
 
 </div>
 
-<a href="https://osirismedici.github.io/canvas/#demo">
-  <img width="1280" alt="Canvas product demo playing automatically" src="https://github.com/user-attachments/assets/89ec4659-32c1-4530-9690-a5d034f2ff45" />
-</a>
+https://github.com/user-attachments/assets/818b8a00-83fc-4495-894d-dbb7df90256c
 
-<p align="center"><sub>1 min 50 sec silent product demo · plays automatically and loops</sub></p>
+<p align="center"><sub>1 min 50 sec silent product demo · click to play</sub></p>
 
 ---
 
